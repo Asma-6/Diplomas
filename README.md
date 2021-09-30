@@ -12,4 +12,4 @@ To run this app :
 2- run this command : Php artisan serv
 
 
---> Until now our API is ready to be used from our frontend app, u can switch to react branch.
+--> Until now our API is ready to be used from our frontend app, so u can switch to the react branch.

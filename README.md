@@ -3,7 +3,7 @@ This repo contains 2 branches :
 * In the react branch : there are the files of the frontend of the app.
 
 # The backend 
-It's about an API application made by Laravel 8, which is a server-side PHP framework.
+It's about an API made by Laravel 8, which is a server-side PHP framework.
 
 To run this app :
 

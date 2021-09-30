@@ -6,7 +6,10 @@ This repo contains 2 branches :
 It's about an application made by Laravel 8, which is a server-side PHP framework.
 
 To run this app :
+
 1- Import the database file Suividiplomes.sql
+
 2- run this command : Php artisan serv
 
---> Until now our API is ready to be used from our frontend app.
+
+--> Until now our API is ready to be used from our frontend app, u can switch to react branch.

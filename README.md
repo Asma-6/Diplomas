@@ -21,4 +21,4 @@ Then open [http://localhost:5000](http://localhost:5000) to view it in the brows
 
 
 
-                                              :D ENJOY THE APP :D
+                                                 :D ENJOY THE APP :D

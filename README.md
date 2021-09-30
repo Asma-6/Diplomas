@@ -1,5 +1,5 @@
 This repo contains 2 branches :
-* In the Master branch : there are the files of the backend of the app.
+* In the master branch : there are the files of the backend of the app.
 * In the react branch : there are the files of the frontend of the app.
 
 # The backend 
